@@ -59,7 +59,7 @@ export default class Andsidian extends Plugin {
 					console.log('Editor modificado.');
 				}
 
-			}, 500))
+			}, 1000))
 		);
 	}
 
