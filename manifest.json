@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "andsidian",
+	"name": "Andsidian",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Implementing some automations in my own notes.",
+	"author": "André Carvalho <alac1984@gmail.com>",
+	"authorUrl": "https://x.com/lookanotherdev",
+	"fundingUrl": "https://x.com/lookanotherdev",
 	"isDesktopOnly": false
 }
